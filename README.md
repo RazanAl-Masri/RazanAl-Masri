@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hello, I'm Razan 👋
 
 I'm a passionate web developer who loves creating interactive applications. Currently, I'm exploring React and Vite.
