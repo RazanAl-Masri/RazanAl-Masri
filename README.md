@@ -4,7 +4,7 @@
 I'm a passionate web developer who loves creating interactive applications. Currently, I'm exploring React and Vite.
 
 ### 🌍 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile)
+[LinkedIn](https://www.linkedin.com/in/razanalmasri/) | [Gmail](razan2015khas@gmail.com)
 
 ### 💻 Skills:
 - JavaScript
