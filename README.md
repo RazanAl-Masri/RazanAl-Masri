@@ -4,7 +4,8 @@
 I'm a passionate web developer who loves creating interactive applications. Currently, I'm exploring React and Vite.
 
 ### 🌍 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/razanalmasri/) | [Gmail](razan2015khas@gmail.com)
+[🔗 LinkedIn](https://www.linkedin.com/in/razanalmasri/) | [📧 Email me](mailto:raza2015khas@gmail.com)
+
 
 ### 💻 Skills:
 - JavaScript
@@ -21,8 +22,8 @@ I love coffee and coding in my free time!
 
 <details>
   <summary>✨ Click to see my latest projects!</summary>
-  - [Project 1](https://github.com/Fanta-Four/project-FantaFour.git)
-  - [Project 2](https://github.com/CineWizards/cinemania.git)
+  - [Project 1](https://github.com/Fanta-Four/project-FantaFour.git)<br>
+  - [Project 2](https://github.com/CineWizards/cinemania.git)<br>
 </details>
 
 <!--
