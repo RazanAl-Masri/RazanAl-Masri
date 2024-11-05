@@ -1,4 +1,29 @@
 ## Hi there 👋
+# Hello, I'm Razan 👋
+
+I'm a passionate web developer who loves creating interactive applications. Currently, I'm exploring React and Vite.
+
+### 🌍 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile)
+
+### 💻 Skills:
+- JavaScript
+- React
+- CSS
+- HTML
+
+### 🌱 I’m currently learning:
+- TypeScript
+- Node.js
+
+### 🚀 Fun Fact:
+I love coffee and coding in my free time!
+
+<details>
+  <summary>✨ Click to see my latest projects!</summary>
+  - [Project 1](https://github.com/Fanta-Four/project-FantaFour.git)
+  - [Project 2](https://github.com/CineWizards/cinemania.git)
+</details>
 
 <!--
 **RazanAl-Masri/RazanAl-Masri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
